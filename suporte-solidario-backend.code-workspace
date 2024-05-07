@@ -1,0 +1,30 @@
+{
+	"launch": {
+		"version": "0.2.0",
+		"configurations": [],
+		"compounds": []
+	},
+	"folders": [
+		{
+			"name": "1. Domínio",
+			"path": "./domain"
+		},
+		{
+			"name": "2. Aplicação",
+			"path": "./application"
+		},
+		{
+			"name": "3. Adaptadores",
+			"path": "./adapter"
+		},
+		{
+			"name": "4. Infraestrutura",
+			"path": "./infrastructure"
+		},
+		{
+			"name": "Raiz",
+			"path": "."
+		}
+	],
+	"settings": {}
+}

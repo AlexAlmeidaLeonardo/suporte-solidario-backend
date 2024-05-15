@@ -1,0 +1,5 @@
+public class Categoria
+{
+    private long id { get; set; }
+    private string descricao { get; set; }
+}
